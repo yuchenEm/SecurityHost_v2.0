@@ -61,7 +61,7 @@ static void 	App_GeneralMenu_DisarmHandler(void);
 static void 	App_GeneralMenu_FirmwareUpdateHandler(void);
 
 static void 	App_ListMenu_MainMenuHandler(void);
-static void		App_ListMenu_SensorPairHandler(void);
+static void	App_ListMenu_SensorPairHandler(void);
 static void 	App_ListMenu_SensorParaHandler(void);
 static void 	App_ListMenu_WiFiNetPairHandler(void);
 static void 	App_ListMenu_AdminPasswordHandler(void);
